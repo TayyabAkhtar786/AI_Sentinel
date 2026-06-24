@@ -1,0 +1,9 @@
+flask
+flask-socketio
+python-nmap
+scikit-learn
+numpy
+pandas
+reportlab
+requests
+beautifulsoup4
